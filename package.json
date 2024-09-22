@@ -1,0 +1,22 @@
+{
+  "name": "ss14-forms-creator",
+  "version": "1.0.0",
+  "description": "Making official forms for Space Station 14",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alpha-Two/ss14-forms-creator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alpha-Two/ss14-forms-creator/issues"
+  },
+  "homepage": "https://github.com/Alpha-Two/ss14-forms-creator#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

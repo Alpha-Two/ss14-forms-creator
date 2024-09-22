@@ -1,0 +1,12 @@
+    cb0000 Security
+    c96dbf Science
+    5b97bc Medical
+    b18644 Cargo
+    f39f27 Engineering
+    ff2fff Clown (how special)
+    9fed58 Food Service (bartender/chef/botany/service worker)
+    6e6e6e Passenger
+    1b67a5 Command
+    009100 CentCom
+    134975 NanoTrasen
+    ff0000 Syndicate

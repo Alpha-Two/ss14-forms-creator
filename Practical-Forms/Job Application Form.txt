@@ -1,15 +1,15 @@
-# Job Application Form
 [color=#1b67a5]█▄ █ ▀█▀    [head=3]Job Application Form[/head]
 █ ▀█     █        Please fill out the feilds below to apply[/color]
 ──────────────────────────────────────────
 In order to receive a job you must fill out the following form, making sure to answer all questions accurately. Once finished please hand it into the Head of Personnel for review.
 
-Name:    [color=#002AAF]Sample Name[/color]
+Name:    
+
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-Current Job (if any):    [color=#002AAF]Sample Job[/color]
+Current Job (if any):    
+
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 Please mark below the jobs you would like to apply for. You may mark the boxes with numbers to indicate preference (1 for first preference, 2 for first back-up, etc) or you may mark the boxes with X if you do not care which)
-[bold]Please choose at least 3 jobs, as not all are guranteed to be avaliable.[/bold] [color=red]Jobs with an asterisk may not be avaliable to apply for, but are listed for posterity. Check with your Head of Personnel.[/color]
 
 Service:
 \[  ] Bartender
@@ -24,6 +24,7 @@ Service:
 \[  ] Mime
 \[  ] Musician
 \[  ] Service Worker
+\[  ] [color=#00dd00]Secretary [bold]New![/bold][/color]
 
 Cargo:
 \[  ] Cargo Technician
@@ -38,6 +39,7 @@ Security
 \[  ] Security Cadet
 \[  ] Security Officer*
 \[  ] Warden*
+\[  ] [color=#00dd00]Combat Medic [bold]New![/bold][/color]
 
 Medical
 \[  ] Chemist
@@ -51,5 +53,13 @@ Science
 Other:
 \[  ] Resign
 \[  ] Title change:
-New Title:    [color=#002AAF]Sample Title[/color]
+\[  ] New Title:    
+
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#aaaaaa]‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾ ‾[/color]
+Prior Experience:
+
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Are you willing to be mind shielded? (this will not affect the application for non-secure jobs)
+\[  ] Yes
+\[  ] No
