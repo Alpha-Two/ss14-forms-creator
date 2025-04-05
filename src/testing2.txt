@@ -1,0 +1,92 @@
+# All Access Application Form
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+█ [head=1]All Access Request Form[/head]
+
+In order to apply for all access you must answer the following questions:
+
+Name:    !#in|Name:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Age:     !#in|Age:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Species: !#in|Species:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Social Security #:  !#in|SSN:|1!#
+                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+CentCom Employee ID#:  !#in|CC ID:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Star Sign:  !#in|Star Sign:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Waffles Or Pancakes?:  !#in|Waffles or Pancakes:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+To verify you are not silicon, please solve the following simple math problem:
+
+The gaussian integral formula states that
+⌠ ∞
+|      eˉˣ² dx ==√π.
+⌡-∞
+
+[bold]What is the integral of[/bold]
+⌠ ∞
+|      x² eˉˣ² dx? !#in|Integral:|1!#
+⌡-∞                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+
+
+Why do you need AA?:
+          !#in|Reason line 1:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+!#in|Reason line 2:|1!#
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+!#in|Reason line 3:|1!#
+‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+What is the HoP's favorite color?:  !#in|HoP's Favourite Colour:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Last 4 digits of your credit card #:  !#in|4 digits of credit card:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+First 16 codes of your DNA:  !#in|16 codes of DNA:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+CentCom or CentComm?:  !#in|CentCom or CentComm:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Pineapple Pizza:  !#in|Pineapple Pizza:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Date Of Birth:  !#in|DoB:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Hour Of Birth:  !#in|HoB:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Minute Of Birth:  !#in|MoB:|1!#
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Complete the song lyrics:
+
+In 2125, I was !#in|Lyric 1:|1!#
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+I didn't sign up for this, !#in|Lyric 2:|1!#
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Space !#in|Lyric 3:|1!#
+      ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+What is your favorite corporation?
+!#?c||2^CentCom!#
+!#?c||2^CentComm!#
+!#?c||2^NanoTrasen!#
+!#?c||2^Cybersun!#
+!#?c||2^Donk Co.!#
+!#?c||2^Other!#
+
+Would you be willing to donate your first born son or daughter to NanoTrasen scientists?
+!#?c||2^Yes!#       !#?c||2^No!#
+
+First Born's Name: !#in|First Born's name:|1!#
+                   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Favorite Department
+!#?c||2^Sci!#     !#?c||2^Engi!#      !#?c||2^Service!#
+!#?c||2^Med!#  !#?c||2^Sec!#       !#?c||2^Command!#
+!#?c||2^Grey!#  !#?c||2^Cargo!#  !#?c||2^CentCom!#
+
+Do You Pledge To Work For CentCom Until You Die?
+!#?c||2^Yes!#       !#?c||2^Yes!#
+
+Have you answered all questions honestly?
+!#?c||2^Yes!#       !#?c||2^No!#
+
+Are you sure?
+!#?c||2^Yes!#       !#?c||2^No!#

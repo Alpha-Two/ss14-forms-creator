@@ -4,7 +4,11 @@
   "description": "Making official forms for Space Station 14",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js",
+    "tsc": "npx tsc; npm run start",
+    "postinstall": "npm run tsc",
+    "dev": "ts-node-dev --respawn --pretty --transpile-only index.ts"
   },
   "repository": {
     "type": "git",
@@ -17,6 +21,12 @@
   },
   "homepage": "https://github.com/Alpha-Two/ss14-forms-creator#readme",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "@types/prompt-sync": "^4.2.3",
+    "case": "^1.6.3",
+    "fs": "^0.0.1-security",
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.2"
   }
 }
