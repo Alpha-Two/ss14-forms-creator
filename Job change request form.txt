@@ -1,0 +1,20 @@
+# Job change request form
+                            [color=#1b487e]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+                                        [head=3]NanoTrasen[/ head]
+
+[head=2][color=blue]NanoTrasen[/color] Job Switch Request Form[/head]
+
+[bold]FILL EVERYTHING OUT BEFORE STAMPING!!!!!![/bold]
+
+[bold]Name: [/bold][color=red]Ulna Sybilla [/color]
+[bold]Gender: [/bold][color=red]Wish not to state [/color]
+[bold]Age: [/bold][color=red]1000[/color]
+[bold]Old Job: [/bold][color=red]Closet Skeleton[/color]
+[bold]New Job: [/bold][color=red]Service Worker[/color]
+[bold]Reason: [/bold][color=red]Something to do![/color]
